@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @81ghost
+- 👋 Hi, I’m @83ghost
 - 👀 I’m interested in AI/ML,Data Science,Cybersecurity.
 - 🌱 I’m currently learning EEE engineering and BS in Data Science and Programming.
 - 💞️ I’m looking to collaborate on projects and hackathons.
